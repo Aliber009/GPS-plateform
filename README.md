@@ -6,7 +6,7 @@
 the App was made with reactJs,Material Ui ,redux and flask( new server along with the old one ).
 Enhancements were proposed to make the classic app, more powerful and versatile 
 
-##Quick_Start 
+# Quick_Start 
 
 Go to 'modern' folder and run with npm start, traccar server should be running alongside 
 
