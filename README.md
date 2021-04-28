@@ -4,7 +4,7 @@
 
 ## About
 the App was made with reactJs,Material Ui ,redux and flask( new server along with the old one ).
-Enhancements were proposed to make the classic app, more powerful and versitile 
+Enhancements were proposed to make the classic app, more powerful and versatile 
 
 
 
